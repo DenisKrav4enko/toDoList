@@ -1,0 +1,9 @@
+.container {
+    max-width: 450px;
+    width: 100%;
+    margin: 60px auto;
+}
+
+.top-panel {
+    margin: 1rem 0;
+}

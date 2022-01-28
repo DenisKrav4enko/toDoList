@@ -1,0 +1,14 @@
+.app-header {
+    position: relative;
+    font-family: "Book Antiqua";
+    margin-bottom: 20px;
+    color: coral;
+}
+
+h2 {
+    position: absolute;
+    font-size: 18px;
+    bottom: 4px;
+    right: 0;
+
+}

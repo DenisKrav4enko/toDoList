@@ -1,0 +1,16 @@
+.search-block {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-group {
+    padding-bottom: 10px;
+}
+
+.search {
+    margin: 0 0 10px;
+    border-radius: 10px;
+}
+
